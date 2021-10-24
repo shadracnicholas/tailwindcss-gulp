@@ -59,6 +59,8 @@ To change the path of files and destination/build folder, edit options in **conf
 
 # File Includes
 
+Import any html file as shown below. Example is implemented on default Index.html
+
 ```sh
     @@include('./includes/header.html')
 ```
